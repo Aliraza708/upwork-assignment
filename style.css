@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+@font-face {
+    font-family:"ofltxt" ;
+    src: url(Lobster/Lobster-Regular.ttf);
+}
+h2{
+    color: green;
+    font-family: "ofltxt";
+    font-size: xx-large;
+}
+li{
+
+    display: inline-block;
+    list-style: none;
+    margin-left:30px ;
+    margin-top: 20px;
+    
+}
+a{
+    color: black;
+}
+select{
+    border: none;
+}
+
+button{
+    background-color: green;
+    text-align: center;
+    width:100px ;
+    height:30px;
+    border: 50px;
+    border-radius:15px;
+    font-size: x-large;
+    color: white;
+}
+#right{
+    margin-left:130px ;
+}
+p{
+    display: inline-block;
+}
+.back{
+    background-image:url(./assets/scr12.png);
+    background-position: 80%;
+    background-repeat: no-repeat;
+    margin-top:100px;
+    width:1500;
+    height:300px ;
+}
+h1{
+    color: green;
+    font-size:80px;
+    margin-left: 50px;
+    margin-top:0px ;
+
+}
+p{
+    margin-left:80px;
+    margin-top:20px ;
+    font-size: x-large;
+}
+#get{
+    margin-top:22px;
+    margin-left:60px;
+    width: 200px;
+    height:50px;
+}
+img{
+    width: 100%;
+}
