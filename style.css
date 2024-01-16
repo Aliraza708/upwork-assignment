@@ -72,3 +72,10 @@ p{
 img{
     width: 100%;
 }
+
+a:hover{
+    color: green;
+}
+select:hover{
+    color: green;
+}
