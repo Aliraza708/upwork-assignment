@@ -25,6 +25,7 @@ a{
 }
 select{
     border: none;
+    width:80px ;
 }
 
 button{
